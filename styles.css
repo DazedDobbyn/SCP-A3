@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient(to top, #000000, #696969);
+    min-height: 100vh;
+    font-family: "Lucida Sans";
+    
+}
+
+h1 {
+    
+    font-size: 2rem;
+}
+
+input[type=text]{
+    
+    width: 50%;
+    padding: 5px;
+    
+}
+
+a {
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    margin-bottom: 25px;
+}
+
+.linkdec {
+    text-decoration: none;
+    color: black;
+}
+
+.toForm {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    
+    padding-left: 75px;
+    padding-right: 75px;   
+    padding-bottom: 30px;
+    color: rgb(200, 200, 200);
+}
+
+#titlemargin {
+    margin-top: 20px;
+}
+
+.btmbtn {
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.maintext {
+    background-color: #3b3b3b;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 1px;   
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    outline: 1px solid rgb(0, 0, 0);
+    overflow: hidden;
+    box-shadow: 0 0 10px black;
+}
